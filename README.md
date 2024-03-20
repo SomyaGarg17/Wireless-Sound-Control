@@ -24,9 +24,6 @@ Run the program
 
 Note: You might have to wait for sometime usually 1-2 minutes for program to start and work properly.
 
-## Video of output
-
-https://www.instagram.com/p/CQIK9dWgkMZ
 
 ## Special help
 You might face issue with webcam not showing or something related to webcam.
@@ -35,6 +32,3 @@ To solve it just change the value/webcam from python files.
 `cv2.VideoCapture(0)`
 
 You can increment the number `0` until you see your webcam.
-
-# If you like my programs then do follow me on instagram!
-https://www.instagram.com/aihub_/
